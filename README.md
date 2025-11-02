@@ -8,6 +8,7 @@ Différentes implémentations du BitPacking pour la compression de suite d'integ
 ## Table des matières
 
 - [À propos](#à-propos)
+- [Prérequis](#prérequis)
 - [Installation](#installation)
 - [Utilisation](#utilisation)
 
